@@ -13,9 +13,9 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [Спецификация Credit Card Number Validator.](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+* [Спецификация Credit Card Number Validator.](https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0)
 * [Код разработчика.](https://github.com/Masikoshka/J_DZ_1.1/blob/master/src/Main.java)
-* [Чек-лист.](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+* [Чек-лист.](https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0)
 
 В качестве тестовых данных использовались:
 * [Credit Card Number Generator & Validator.](https://www.freeformatter.com/credit-card-number-generator-validator.html)
