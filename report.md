@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* [Не валидируются банковские карты если их номер больше 16 цифр.]()
-* [Не валидируются банковские карты если их номер меньше 16 цифр.]()
+* [Не валидируются банковские карты если их номер больше 16 цифр.](https://github.com/Masikoshka/J_DZ_1.1/issues/1#issue-887605138)
+* [Не валидируются банковские карты если их номер меньше 16 цифр.](https://github.com/Masikoshka/J_DZ_1.1/issues/2#issue-887648317)
 
 ## Описание процесса тестирования
 
@@ -17,7 +17,7 @@
 * [Чек-лист.](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
 В качестве тестовых данных использовались:
-* [Код разработчика.]()
+* [Код разработчика.](https://github.com/Masikoshka/J_DZ_1.1/blob/master/src/Main.java)
 * [Credit Card Number Generator & Validator.](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 Тестирование производилось в следующем окружении:
