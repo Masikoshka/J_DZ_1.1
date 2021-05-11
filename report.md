@@ -14,10 +14,10 @@
 
 В процессе тестирования использовались следующие артефакты:
 * [Спецификация Credit Card Number Validator.](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+* [Код разработчика.](https://github.com/Masikoshka/J_DZ_1.1/blob/master/src/Main.java)
 * [Чек-лист.](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
 В качестве тестовых данных использовались:
-* [Код разработчика.](https://github.com/Masikoshka/J_DZ_1.1/blob/master/src/Main.java)
 * [Credit Card Number Generator & Validator.](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 Тестирование производилось в следующем окружении:
